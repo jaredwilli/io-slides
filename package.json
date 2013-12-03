@@ -1,0 +1,19 @@
+{
+  "name": "mobile-devTools",
+  "version": "1.0.0",
+  "description": "Slides for Mobile DevTools",
+  "main": "Gruntfile.js",
+  "repository": "mobile-devtools",
+  "author": "Jared",
+  "license": "",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-watch": "~0.5.3",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-exec": "~0.4.2",
+    "grunt-reload": "~0.2.0",
+    "less": "~1.5.0"
+  }
+}
